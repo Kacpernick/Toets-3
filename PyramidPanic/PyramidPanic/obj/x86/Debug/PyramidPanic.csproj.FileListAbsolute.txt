@@ -1,0 +1,16 @@
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Background.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Title.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_help.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_load.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_scores.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_quit.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\StartScene\Button_start.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Scorpion\Scorpion.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Beetle\Beetle.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\Content\Explorer\Explorer.xnb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.exe
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\bin\x86\Debug\PyramidPanic.pdb
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.exe
+C:\Users\Kacper\Desktop\am1a-pyramidpanic-master\PyramidPanic\PyramidPanic\obj\x86\Debug\PyramidPanic.pdb
