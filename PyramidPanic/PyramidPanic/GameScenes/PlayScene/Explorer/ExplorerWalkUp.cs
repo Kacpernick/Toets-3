@@ -48,7 +48,7 @@ namespace PyramidPanic
             if (this.explorer.Position.Y < 0 + 16)
             {
                 //Breng de explorer in de toestand Idle
-                this.explorer.Position -= this.velocity;
+                this.explorer.Position += this.velocity;
                 this.explorer.State = this.explorer.IdleWalk;
                 this.explorer.IdleWalk.Effect = SpriteEffects.None;
                 this.explorer.IdleWalk.Rotation = -(float)Math.PI / 2;
@@ -61,8 +61,8 @@ namespace PyramidPanic
             if (Input.EdgeDetectKeyUp(Keys.Up))
             {
                 this.explorer.State = this.explorer.Idle;
-                this.explorer.Idle.Effect = SpriteEffects.FlipVertically;
-                this.explorer.Idle.Rotation = (float)Math.PI / 2;
+                this.explorer.Idle.Effect = SpriteEffects.None;
+                this.explorer.Idle.Rotation = -(float)Math.PI / 2;
             }
 
             
